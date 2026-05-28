@@ -66,3 +66,30 @@ print("Готово!")
 
     except Exception as e:
         print(f"Ошибка {image_name}: {e}")
+pd.DataFrame(results).to_csv(
+    "results.csv",
+    index=False,
+    encoding="utf-8-sig"
+)
+
+pd.DataFrame(successful).to_csv(
+    "successful_predictions.csv",
+    index=False,
+    encoding="utf-8-sig"
+)
+
+pd.DataFrame(uncertain).to_csv(
+    "uncertain_predictions.csv",
+    index=False,
+    encoding="utf-8-sig"
+)
+print("\n" + "=" * 60)
+print("УДАЧНЫЕ РАСПОЗНАВАНИЯ")
+print("=" * 60)
+
+for item in successful:
+    print(
+        f"{item['Изображение']} → "
+        f"{item['Лучший класс']} "
+        f"(уверенность: {item['Уверенность']})"
+    )
