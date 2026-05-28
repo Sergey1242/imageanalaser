@@ -17,3 +17,10 @@ successful = []
 uncertain = []
 
 CONFIDENCE_THRESHOLD = 0.30
+def get_status(confidence):
+    if confidence >= 0.30:
+        return "Удачное распознавание"
+    return "Сомнительное распознавание"
+
+for image_name in os.listdir(image_folder):
+    image_path = os.path.join(image_folder, image_name)
