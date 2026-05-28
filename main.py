@@ -42,3 +42,27 @@ for image_name in os.listdir(image_folder):
 
 pd.DataFrame(results).to_csv("results.csv")
 print("Готово!")
+        for i in range(5):
+            class_name = categories[top5_catid[i]]
+            confidence = top5_prob[i].item()
+
+            print(
+                f"{i+1}. "
+                f"{class_name:<25}"
+                f" | вероятность: "
+                f"{confidence:.4f}"
+            )
+
+            row[f"Класс_{i+1}"] = class_name
+            row[f"Вероятность_{i+1}"] = round(confidence, 4)
+        print(f"\nСтатус: {status}")
+
+        results.append(row)
+
+        if best_conf >= CONFIDENCE_THRESHOLD:
+            successful.append(row)
+        else:
+            uncertain.append(row)
+
+    except Exception as e:
+        print(f"Ошибка {image_name}: {e}")
