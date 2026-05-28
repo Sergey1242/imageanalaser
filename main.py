@@ -93,3 +93,19 @@ for item in successful:
         f"{item['Лучший класс']} "
         f"(уверенность: {item['Уверенность']})"
     )
+print("\n" + "=" * 60)
+print("СОМНИТЕЛЬНЫЕ РАСПОЗНАВАНИЯ")
+print("=" * 60)
+
+for item in uncertain:
+    print(
+        f"{item['Изображение']} → "
+        f"{item['Лучший класс']} "
+        f"(уверенность: {item['Уверенность']})"
+    )
+
+print("\nГотово!")
+print("Созданы файлы:")
+print("results.csv")
+print("successful_predictions.csv")
+print("uncertain_predictions.csv")
