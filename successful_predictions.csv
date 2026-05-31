@@ -1,1 +1,55 @@
-
+Изображение,Лучший класс,Уверенность,Статус,Класс_1,Вероятность_1,Класс_2,Вероятность_2,Класс_3,Вероятность_3,Класс_4,Вероятность_4,Класс_5,Вероятность_5
+img (1).jpg,hyena,0.3658,Удачное распознавание,hyena,0.3658,African hunting dog,0.0359,dhole,0.0019,dingo,0.0017,Egyptian cat,0.0014
+img (10).jpg,sports car,0.3826,Удачное распознавание,sports car,0.3826,beach wagon,0.0779,car wheel,0.0434,racer,0.021,convertible,0.016
+img (100).jpg,police van,0.4659,Удачное распознавание,police van,0.4659,minivan,0.0131,palace,0.0102,grille,0.0035,beach wagon,0.0028
+img (101).jpg,Rottweiler,0.5897,Удачное распознавание,Rottweiler,0.5897,Doberman,0.0038,kelpie,0.0036,Appenzeller,0.0023,Labrador retriever,0.0023
+img (103).jpg,hyena,0.346,Удачное распознавание,hyena,0.346,African hunting dog,0.0175,Egyptian cat,0.0037,lynx,0.0019,rapeseed,0.0019
+img (11).jpg,notebook,0.3282,Удачное распознавание,notebook,0.3282,laptop,0.1994,space bar,0.0175,screen,0.0167,desktop computer,0.0145
+img (13).jpg,tricycle,0.3016,Удачное распознавание,tricycle,0.3016,bicycle-built-for-two,0.1472,mountain bike,0.0136,jinrikisha,0.0074,shopping basket,0.007
+img (16).jpg,cheeseburger,0.5809,Удачное распознавание,cheeseburger,0.5809,bagel,0.003,modem,0.0019,mushroom,0.0017,screen,0.0015
+img (19).jpg,streetcar,0.3151,Удачное распознавание,streetcar,0.3151,passenger car,0.0904,trolleybus,0.066,school bus,0.0322,electric locomotive,0.0097
+img (2).jpg,tiger,0.3731,Удачное распознавание,tiger,0.3731,tiger cat,0.161,chainlink fence,0.0035,lynx,0.003,viaduct,0.0019
+img (24).jpg,moped,0.3089,Удачное распознавание,moped,0.3089,motor scooter,0.1138,disk brake,0.072,mortar,0.0064,crash helmet,0.006
+img (25).jpg,notebook,0.3758,Удачное распознавание,notebook,0.3758,laptop,0.0964,space bar,0.0266,screen,0.0256,modem,0.0231
+img (26).jpg,beaver,0.4908,Удачное распознавание,beaver,0.4908,marmot,0.0293,otter,0.0079,water buffalo,0.0074,mink,0.0066
+img (27).jpg,African elephant,0.301,Удачное распознавание,African elephant,0.301,tusker,0.1855,Indian elephant,0.0792,mailbag,0.0016,zebra,0.001
+img (29).jpg,potpie,0.5101,Удачное распознавание,potpie,0.5101,pizza,0.0049,frying pan,0.0044,dough,0.0028,Dutch oven,0.0024
+img (3).jpg,cheetah,0.5072,Удачное распознавание,cheetah,0.5072,leopard,0.0114,jaguar,0.0025,patio,0.0015,basenji,0.0014
+img (31).jpg,sports car,0.7341,Удачное распознавание,sports car,0.7341,car wheel,0.0198,racer,0.018,convertible,0.0094,grille,0.006
+img (35).jpg,pizza,0.4891,Удачное распознавание,pizza,0.4891,potpie,0.0115,carbonara,0.0041,corn,0.004,spatula,0.0034
+img (4).JPG,beaver,0.4089,Удачное распознавание,beaver,0.4089,marmot,0.012,porcupine,0.0118,mink,0.0035,otter,0.0032
+img (42).jpg,golden retriever,0.3743,Удачное распознавание,golden retriever,0.3743,flat-coated retriever,0.0191,Labrador retriever,0.0072,Sussex spaniel,0.0064,curly-coated retriever,0.0062
+img (43).jpg,cheeseburger,0.4739,Удачное распознавание,cheeseburger,0.4739,hotdog,0.0112,potpie,0.006,plate,0.005,restaurant,0.0046
+img (5).jpg,Model T,0.4653,Удачное распознавание,Model T,0.4653,half track,0.0076,tricycle,0.007,pickelhaube,0.0059,thresher,0.0041
+img (50).jpg,cab,0.3608,Удачное распознавание,cab,0.3608,sports car,0.0347,limousine,0.0212,minivan,0.021,traffic light,0.0185
+img (53).jpg,passenger car,0.313,Удачное распознавание,passenger car,0.313,minibus,0.1599,limousine,0.012,trolleybus,0.0103,recreational vehicle,0.0093
+img (54).jpg,crash helmet,0.4464,Удачное распознавание,crash helmet,0.4464,grille,0.09,sports car,0.0251,car wheel,0.0113,car mirror,0.0088
+img (55).jpg,pizza,0.5094,Удачное распознавание,pizza,0.5094,broccoli,0.0026,potpie,0.0021,bagel,0.0021,soup bowl,0.0019
+img (56).jpg,sports car,0.3816,Удачное распознавание,sports car,0.3816,car wheel,0.0476,minivan,0.0192,grille,0.0187,convertible,0.0181
+img (58).jpg,giant panda,0.3832,Удачное распознавание,giant panda,0.3832,teddy,0.0022,lesser panda,0.0021,bighorn,0.0019,limousine,0.0019
+img (60).jpg,mountain bike,0.5592,Удачное распознавание,mountain bike,0.5592,bicycle-built-for-two,0.0416,moped,0.0225,tricycle,0.0136,alp,0.0069
+img (61).jpg,airliner,0.3137,Удачное распознавание,airliner,0.3137,warplane,0.1181,wing,0.0319,space shuttle,0.011,missile,0.0048
+img (64).jpg,spotlight,0.7944,Удачное распознавание,spotlight,0.7944,crutch,0.0077,table lamp,0.0073,corkscrew,0.0063,soap dispenser,0.0037
+img (66).jpg,pizza,0.3965,Удачное распознавание,pizza,0.3965,potpie,0.0089,hot pot,0.0046,consomme,0.0038,spaghetti squash,0.0033
+img (67).jpg,banana,0.3276,Удачное распознавание,banana,0.3276,orange,0.0117,grocery store,0.0101,lemon,0.0071,gondola,0.0053
+img (69).jpg,traffic light,0.3692,Удачное распознавание,traffic light,0.3692,street sign,0.005,hook,0.0022,packet,0.0022,beacon,0.0015
+img (7).jpg,passenger car,0.6182,Удачное распознавание,passenger car,0.6182,recreational vehicle,0.0395,minibus,0.0232,moving van,0.0181,trolleybus,0.0139
+img (70).jpg,pier,0.3772,Удачное распознавание,pier,0.3772,steel arch bridge,0.1508,suspension bridge,0.0191,viaduct,0.0051,fireboat,0.0032
+img (78).jpg,tiger,0.5534,Удачное распознавание,tiger,0.5534,tiger cat,0.0395,tabby,0.0111,Egyptian cat,0.0088,lynx,0.0042
+img (8).jpg,passenger car,0.4962,Удачное распознавание,passenger car,0.4962,moving van,0.035,recreational vehicle,0.0347,trailer truck,0.0288,minibus,0.0229
+img (80).jpg,red fox,0.3205,Удачное распознавание,red fox,0.3205,kit fox,0.1467,grey fox,0.0758,dhole,0.0264,red wolf,0.0084
+img (81).jpg,coyote,0.3687,Удачное распознавание,coyote,0.3687,red wolf,0.0276,grey fox,0.0246,dhole,0.0141,timber wolf,0.0051
+img (82).jpg,brown bear,0.4046,Удачное распознавание,brown bear,0.4046,sloth bear,0.0097,American black bear,0.0045,patas,0.0043,Norwich terrier,0.0035
+img (83).jpg,airliner,0.4642,Удачное распознавание,airliner,0.4642,wing,0.096,warplane,0.0247,projectile,0.0048,missile,0.0039
+img (85).jpg,brown bear,0.4969,Удачное распознавание,brown bear,0.4969,sloth bear,0.0018,American black bear,0.0016,wild boar,0.0011,bison,0.001
+img (86).jpg,soccer ball,0.5075,Удачное распознавание,soccer ball,0.5075,volleyball,0.0207,basketball,0.0156,knee pad,0.0075,rugby ball,0.0045
+img (87).jpg,analog clock,0.4885,Удачное распознавание,analog clock,0.4885,wall clock,0.077,stopwatch,0.015,barometer,0.0069,magnetic compass,0.0067
+img (88).jpg,golden retriever,0.3144,Удачное распознавание,golden retriever,0.3144,flat-coated retriever,0.0241,tennis ball,0.0077,kuvasz,0.0048,soccer ball,0.004
+img (89).jpg,notebook,0.4167,Удачное распознавание,notebook,0.4167,laptop,0.0801,modem,0.026,computer keyboard,0.0236,space bar,0.0189
+img (9).jpg,sports car,0.3145,Удачное распознавание,sports car,0.3145,racer,0.0654,window shade,0.0431,car wheel,0.0341,pickup,0.0057
+img (91).jpg,volcano,0.5685,Удачное распознавание,volcano,0.5685,alp,0.0021,lakeside,0.0016,valley,0.0012,geyser,0.0011
+img (92).jpg,pizza,0.6647,Удачное распознавание,pizza,0.6647,dough,0.0022,cauliflower,0.0014,pomegranate,0.0013,frying pan,0.0012
+img (95).jpg,tiger,0.3417,Удачное распознавание,tiger,0.3417,tiger cat,0.1238,jaguar,0.0017,lynx,0.0013,basenji,0.0012
+img (97).jpg,pop bottle,0.3232,Удачное распознавание,pop bottle,0.3232,saltshaker,0.0302,water bottle,0.0243,nipple,0.0217,beer bottle,0.0162
+img (98).jpg,meerkat,0.3811,Удачное распознавание,meerkat,0.3811,mongoose,0.1108,black-footed ferret,0.0077,weasel,0.0038,hyena,0.0015
+img (99).jpg,pizza,0.426,Удачное распознавание,pizza,0.426,frying pan,0.0034,umbrella,0.0033,sundial,0.0032,wall clock,0.0028
