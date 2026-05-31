@@ -1,1 +1,53 @@
-
+Изображение,Лучший класс,Уверенность,Статус,Класс_1,Вероятность_1,Класс_2,Вероятность_2,Класс_3,Вероятность_3,Класс_4,Вероятность_4,Класс_5,Вероятность_5
+img (1).jpeg,minibus,0.1655,Сомнительное распознавание,minibus,0.1655,trolleybus,0.1511,streetcar,0.0535,passenger car,0.0367,police van,0.0159
+img (1).webp,crash helmet,0.2338,Сомнительное распознавание,crash helmet,0.2338,motor scooter,0.0703,disk brake,0.0252,moped,0.0185,snowmobile,0.0167
+img (102).jpg,vending machine,0.1413,Сомнительное распознавание,vending machine,0.1413,grocery store,0.0966,pop bottle,0.0547,confectionery,0.0536,packet,0.0291
+img (12).jpg,tricycle,0.2114,Сомнительное распознавание,tricycle,0.2114,bicycle-built-for-two,0.179,jinrikisha,0.0256,mountain bike,0.0204,parking meter,0.0135
+img (14).jpg,bicycle-built-for-two,0.2016,Сомнительное распознавание,bicycle-built-for-two,0.2016,tricycle,0.0617,jinrikisha,0.0327,parking meter,0.0147,mountain bike,0.012
+img (15).jpg,crash helmet,0.2094,Сомнительное распознавание,crash helmet,0.2094,disk brake,0.0673,moped,0.0584,motor scooter,0.0253,backpack,0.0063
+img (17).jpg,police van,0.0807,Сомнительное распознавание,police van,0.0807,minivan,0.0786,pickup,0.0738,limousine,0.0549,beach wagon,0.0541
+img (18).jpg,minivan,0.1137,Сомнительное распознавание,minivan,0.1137,limousine,0.1136,beach wagon,0.0455,sports car,0.036,car wheel,0.0267
+img (2).jpeg,backpack,0.2987,Сомнительное распознавание,backpack,0.2987,mailbag,0.1472,binder,0.0021,bulletproof vest,0.002,Sussex spaniel,0.0015
+img (20).jpg,notebook,0.1622,Сомнительное распознавание,notebook,0.1622,laptop,0.1245,space bar,0.0848,modem,0.023,screen,0.0169
+img (21).jpg,motor scooter,0.2317,Сомнительное распознавание,motor scooter,0.2317,crash helmet,0.087,moped,0.0404,snowmobile,0.0374,disk brake,0.0362
+img (22).jpg,cheeseburger,0.1731,Сомнительное распознавание,cheeseburger,0.1731,plate,0.0208,French loaf,0.0153,meat loaf,0.0139,consomme,0.0108
+img (23).jpg,panpipe,0.2338,Сомнительное распознавание,panpipe,0.2338,matchstick,0.1094,drumstick,0.0393,stretcher,0.0146,rubber eraser,0.0129
+img (28).jpg,missile,0.0744,Сомнительное распознавание,missile,0.0744,projectile,0.0698,flagpole,0.0364,pole,0.02,suspension bridge,0.0137
+img (30).jpg,minivan,0.1999,Сомнительное распознавание,minivan,0.1999,beach wagon,0.0772,car wheel,0.0582,sports car,0.0529,convertible,0.0226
+img (32).jpg,mixing bowl,0.0744,Сомнительное распознавание,mixing bowl,0.0744,guacamole,0.0393,plate,0.0346,bucket,0.0344,wok,0.0229
+img (33).jpg,Egyptian cat,0.1115,Сомнительное распознавание,Egyptian cat,0.1115,Persian cat,0.0791,tabby,0.0749,tiger cat,0.0725,lynx,0.0175
+img (34).jpg,sorrel,0.1859,Сомнительное распознавание,sorrel,0.1859,hartebeest,0.0936,ox,0.0147,ibex,0.0145,impala,0.0059
+img (36).jpg,bicycle-built-for-two,0.1956,Сомнительное распознавание,bicycle-built-for-two,0.1956,mountain bike,0.136,tricycle,0.0573,unicycle,0.0135,jean,0.0105
+img (37).jpg,capuchin,0.0876,Сомнительное распознавание,capuchin,0.0876,squirrel monkey,0.0416,titi,0.0398,proboscis monkey,0.0373,three-toed sloth,0.031
+img (38).jpg,notebook,0.1868,Сомнительное распознавание,notebook,0.1868,laptop,0.0832,hand-held computer,0.0818,mouse,0.0521,cellular telephone,0.0294
+img (39).jpg,titi,0.1344,Сомнительное распознавание,titi,0.1344,macaque,0.0927,patas,0.0883,squirrel monkey,0.0435,guenon,0.0417
+img (40).jpg,frying pan,0.2028,Сомнительное распознавание,frying pan,0.2028,consomme,0.0507,wok,0.0349,soup bowl,0.026,mixing bowl,0.0123
+img (41).jpg,cellular telephone,0.1617,Сомнительное распознавание,cellular telephone,0.1617,iPod,0.142,hand-held computer,0.0368,notebook,0.0238,mouse,0.0175
+img (44).jpg,minivan,0.1539,Сомнительное распознавание,minivan,0.1539,beach wagon,0.1345,car wheel,0.0485,convertible,0.023,sports car,0.0186
+img (45).jpg,golden retriever,0.1011,Сомнительное распознавание,golden retriever,0.1011,Labrador retriever,0.0867,tennis ball,0.0578,vizsla,0.0275,soccer ball,0.0182
+img (46).jpg,tricycle,0.1186,Сомнительное распознавание,tricycle,0.1186,jinrikisha,0.0663,bicycle-built-for-two,0.0493,parking meter,0.0484,moped,0.0436
+img (47).jpg,bicycle-built-for-two,0.2185,Сомнительное распознавание,bicycle-built-for-two,0.2185,tricycle,0.1348,mountain bike,0.0567,parking meter,0.0152,jinrikisha,0.0132
+img (48).jpg,joystick,0.1016,Сомнительное распознавание,joystick,0.1016,radio,0.0961,oscilloscope,0.0774,tape player,0.0708,monitor,0.0591
+img (49).jpg,stove,0.0814,Сомнительное распознавание,stove,0.0814,lighter,0.0324,fire screen,0.0263,hair spray,0.0241,candle,0.024
+img (51).jpg,iPod,0.2901,Сомнительное распознавание,iPod,0.2901,cellular telephone,0.1394,remote control,0.0579,book jacket,0.014,pencil box,0.0125
+img (52).jpg,box turtle,0.1123,Сомнительное распознавание,box turtle,0.1123,mud turtle,0.0672,terrapin,0.0518,cheeseburger,0.0391,mashed potato,0.0277
+img (57).jpg,Granny Smith,0.1567,Сомнительное распознавание,Granny Smith,0.1567,orange,0.075,banana,0.0543,fig,0.0251,bagel,0.0215
+img (59).jpg,sports car,0.2944,Сомнительное распознавание,sports car,0.2944,racer,0.0694,car wheel,0.0235,cab,0.0103,passenger car,0.0056
+img (6).jpg,eggnog,0.1047,Сомнительное распознавание,eggnog,0.1047,beer glass,0.075,coffee mug,0.0618,espresso,0.0269,measuring cup,0.0264
+img (62).jpg,cellular telephone,0.2903,Сомнительное распознавание,cellular telephone,0.2903,modem,0.0686,hard disc,0.0506,iPod,0.0269,desktop computer,0.0211
+img (63).jpg,cup,0.2512,Сомнительное распознавание,cup,0.2512,coffee mug,0.096,measuring cup,0.0836,pitcher,0.0458,bucket,0.0226
+img (65).jpg,table lamp,0.1336,Сомнительное распознавание,table lamp,0.1336,vacuum,0.089,spotlight,0.0381,microphone,0.0169,plunger,0.0166
+img (68).jpg,cheeseburger,0.271,Сомнительное распознавание,cheeseburger,0.271,bagel,0.0265,meat loaf,0.0135,French loaf,0.0101,plate,0.0053
+img (71).jpg,lakeside,0.1275,Сомнительное распознавание,lakeside,0.1275,solar dish,0.0884,bell cote,0.0848,seashore,0.0558,jinrikisha,0.0145
+img (72).jpg,patio,0.2362,Сомнительное распознавание,patio,0.2362,sliding door,0.0596,window screen,0.0416,greenhouse,0.0326,bannister,0.025
+img (73).jpg,weasel,0.1201,Сомнительное распознавание,weasel,0.1201,mink,0.1176,Arctic fox,0.022,ice bear,0.0174,nematode,0.0159
+img (74).jpg,cup,0.1552,Сомнительное распознавание,cup,0.1552,coffee mug,0.077,espresso maker,0.035,espresso,0.0338,eggnog,0.0249
+img (75).jpg,kelpie,0.1671,Сомнительное распознавание,kelpie,0.1671,black-and-tan coonhound,0.0686,EntleBucher,0.0541,miniature pinscher,0.0486,Rottweiler,0.0408
+img (76).jpg,crash helmet,0.2677,Сомнительное распознавание,crash helmet,0.2677,warplane,0.0248,projectile,0.0213,sports car,0.0203,cannon,0.0177
+img (77).jpg,shield,0.1858,Сомнительное распознавание,shield,0.1858,ocarina,0.1108,toilet seat,0.0514,wall clock,0.0326,tray,0.0268
+img (79).jpg,red wolf,0.2104,Сомнительное распознавание,red wolf,0.2104,timber wolf,0.162,coyote,0.0715,dingo,0.0357,dhole,0.0271
+img (84).jpg,limousine,0.1595,Сомнительное распознавание,limousine,0.1595,trailer truck,0.0517,dock,0.0428,grille,0.0318,minivan,0.0237
+img (90).jpg,envelope,0.1282,Сомнительное распознавание,envelope,0.1282,jigsaw puzzle,0.0562,web site,0.048,rule,0.0238,wall clock,0.0153
+img (93).jpg,iPod,0.196,Сомнительное распознавание,iPod,0.196,desktop computer,0.0511,cellular telephone,0.0432,loudspeaker,0.0308,remote control,0.0247
+img (94).jpg,bell pepper,0.0793,Сомнительное распознавание,bell pepper,0.0793,plate,0.0313,wok,0.0309,frying pan,0.0248,grocery store,0.0227
+img (96).jpg,bath towel,0.0391,Сомнительное распознавание,bath towel,0.0391,rubber eraser,0.0356,theater curtain,0.0198,pill bottle,0.0191,hamper,0.0173
